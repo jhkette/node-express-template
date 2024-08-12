@@ -1,5 +1,7 @@
 # DevCamper API
 
+NB this is from a udemy course.
+It serves as a useful template for a well design node/express API
 > Backend API for DevCamper application, which is a bootcamp directory website
 
 ## Usage
