@@ -1,9 +1,13 @@
 # DevCamper API
 
-NB this is from a udemy course by Brad Traversy.
+This is from a udemy course by Brad Traversy.
 It serves as a useful template for a well designed node/express API
-
-> Backend API for DevCamper application, which is a bootcamp directory website
+It has
+- Clearly defined routes
+- The routes call functions in controller files which are clear and easy to read
+- Authentication handled with JSON web tokens
+- Clear error handling using a custom error handler middleware
+- Adheres to security best practices
 
 ## Usage
 
